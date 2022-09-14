@@ -1,2 +1,2 @@
-# youtubeclone
+# youtubeClone
 Practicing pure CSS 
